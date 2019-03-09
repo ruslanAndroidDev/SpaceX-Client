@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DoubledTextView">
+        <attr name="top_text_color" format="color" />
+        <attr name="line_color" format="color" />
+        <attr name="top_text_size" format="dimension" />
+        <attr name="bottom_text_color" format="color" />
+        <attr name="bottom_text_size" format="dimension" />
+        <attr name="top_text" format="string"></attr>
+        <attr name="bottom_text" format="string"></attr>
+    </declare-styleable>
+</resources>
